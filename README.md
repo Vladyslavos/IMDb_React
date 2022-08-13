@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/67589338/184500603-0e439c90-ad4e-499e-
 <b>Technologies that I used:</b>
 <ul>
   <li>HTML 5</li>
-  <li>CSS</li>
+  <li>SCSS</li>
   <li>React (Hooks, react-router-dom, API)</li>
   <li>TypeScript</li>
 </ul>
