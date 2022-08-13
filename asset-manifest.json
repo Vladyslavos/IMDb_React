@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/IMDb_React/static/css/main.cb6f885b.css",
-    "main.js": "/IMDb_React/static/js/main.377b5056.js",
+    "main.css": "/IMDb_React/static/css/main.408482c4.css",
+    "main.js": "/IMDb_React/static/js/main.e5098f92.js",
     "index.html": "/IMDb_React/index.html",
-    "main.cb6f885b.css.map": "/IMDb_React/static/css/main.cb6f885b.css.map",
-    "main.377b5056.js.map": "/IMDb_React/static/js/main.377b5056.js.map"
+    "main.408482c4.css.map": "/IMDb_React/static/css/main.408482c4.css.map",
+    "main.e5098f92.js.map": "/IMDb_React/static/js/main.e5098f92.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb6f885b.css",
-    "static/js/main.377b5056.js"
+    "static/css/main.408482c4.css",
+    "static/js/main.e5098f92.js"
   ]
 }
